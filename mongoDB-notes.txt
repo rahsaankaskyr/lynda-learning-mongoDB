@@ -1,0 +1,7 @@
+
+
+
+New terminal window
+	- $ mongo
+	
+	- $ db.users.insert({"name":"tako_nyc"})
